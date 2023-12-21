@@ -1,0 +1,10 @@
+.textBorder {
+    color: black;
+    text-shadow: -1px -1px 0 black, 2px -1px 0 black, -1px 1px 0 black, 2px 1px 0 black;
+}
+
+/* Component.module.css */
+.myCustomFontClass {
+    font-family: 'YourCustomFont', sans-serif; /* Fallback font */
+  }
+  

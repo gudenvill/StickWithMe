@@ -1,0 +1,1675 @@
+{
+    "categories": [
+        {
+            "id": "Animals",
+            "name": "Animals",
+            "stickers": [
+                {
+                    "id": "animals-1",
+                    "name": "Bear#1",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653781bde0432f313ec958a3_Bear1.png",
+                    "FEATURED?": true,
+                    "INSTOCK?": true,
+                    "price": 33
+                },
+                {
+                    "id": "animals-2",
+                    "name": "bear-2",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653781cd25acba95d734a0ea_Bear2.png",
+                    "FEATURED?": true,
+                    "INSTOCK?": true,
+                    "price": 33
+                },
+                {
+                    "id": "animals-3",
+                    "name": "bear-3",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653781fc08896a5117832371_Bear3.png",
+                    "FEATURED?": true,
+                    "INSTOCK?": true,
+                    "price": 33
+                },
+                {
+                    "id": "animals-4",
+                    "name": "bear-4",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537826e5d16f0451da17102_Bear4.png",
+                    "FEATURED?": true,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-5",
+                    "name": "dog-1",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b0980d476ab15ae232c4_Dog1.png",
+                    "FEATURED?": true,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-6",
+                    "name": "dog-2",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b0a7a7994f9e89bbbcad_Dog2.png",
+                    "FEATURED?": true,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-7",
+                    "name": "dog-3",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b0b498942d745f927290_Dog3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-8",
+                    "name": "dog-4",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b0c1102373b432913b1c_Dog4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-9",
+                    "name": "dog-5",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b0cf102373b432914da0_Dog5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-10",
+                    "name": "dog-6",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b0da6b044192d90d3d02_Dog6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-11",
+                    "name": "dog-7",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b0eb3ddb0bafa210f585_Dog7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-12",
+                    "name": "fox1",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b0fdea748ca6a0d77a04_Fox1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-13",
+                    "name": "fox10",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b10ad1fb787cf2defb26_Fox10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-14",
+                    "name": "fox2",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b119a7994f9e89bc3f22_Fox2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-15",
+                    "name": "fox3",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b123e6d050bec91620bc_Fox3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-16",
+                    "name": "fox4",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b130ba0cdefe068229c3_Fox4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-17",
+                    "name": "fox5",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b295ea748ca6a0d93db0_Fox5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-18",
+                    "name": "fox6",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b2a9da591c48d3163033_Fox6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-19",
+                    "name": "fox7",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b2b4da591c48d3163b13_Fox7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-20",
+                    "name": "fox8",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b2c02b0e552d545a1977_Fox8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-21",
+                    "name": "fox9",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b2cdea748ca6a0d98707_Fox9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-22",
+                    "name": "frog-1",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b329a7994f9e89be8558_Frog1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-23",
+                    "name": "frog-10",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b33dc4ca6256e773c4c8_Frog10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-24",
+                    "name": "frog-11",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b36698942d745f9592fc_Frog11.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-25",
+                    "name": "frog-12",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b388254412602f69b036_Frog12.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-26",
+                    "name": "frog-13",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b3adea8e35519261331f_Frog13.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-27",
+                    "name": "frog-14",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b3cb37beda4b1a70d65d_Frog14.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-28",
+                    "name": "frog-15",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b3ea6cd174d87a3b3052_Frog15.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-29",
+                    "name": "frog-16",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b3fe3954305d66453d21_Frog16.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-30",
+                    "name": "frog-3",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b44d6cd174d87a3ba06c_Frog3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-31",
+                    "name": "frog-4",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b47426d31775420435a9_Frog4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-32",
+                    "name": "frog-5",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b4a2e6d050bec91a7731_Frog5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-33",
+                    "name": "frog-6",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b4d7a119df40a6411919_Frog6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-34",
+                    "name": "frog-7",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b4ee2a953cccdabbaf8a_Frog7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-35",
+                    "name": "frog-8",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b50cd3c6fb4fffa4810d_Frog8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-36",
+                    "name": "frog-9",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b548b5621f7121ab4084_Frog9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-37",
+                    "name": "lion-1",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b5a8112b461825691340_Lion1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-38",
+                    "name": "lion-10",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b5cea119df40a6421262_Lion10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-39",
+                    "name": "lion-11",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b5e926d317754205e4ce_Lion11.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-40",
+                    "name": "lion-12",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b6000937170f90de97b4_Lion12.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-41",
+                    "name": "lion-13",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b6227efe3788277fbd43_Lion13.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-42",
+                    "name": "lion-14",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b64a5290b22d569041fd_Lion14.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-43",
+                    "name": "lion-15",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b659ecf77a2c21aa833c_Lion15.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-44",
+                    "name": "lion-16",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b674aec6ca945d377f90_Lion16.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-45",
+                    "name": "lion-17",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b68c6cd174d87a3e44a7_Lion17.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-46",
+                    "name": "lion-18",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b6a3a209acb60af02921_Lion18.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-47",
+                    "name": "lion-19",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b6e9e6d050bec91d575a_Lion19.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-48",
+                    "name": "lion-2",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b70e1e85283d2b7ff124_Lion2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-49",
+                    "name": "lion-20",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b727080a6dd0b8c6ac49_Lion20.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-50",
+                    "name": "lion-3",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b7417bdd1dd15c8fe10f_Lion3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-51",
+                    "name": "lion-4",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b7576b044192d91485f7_Lion4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-52",
+                    "name": "lion-5",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b7ddf49f0585d26f2c33_Lion5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-53",
+                    "name": "lion-6",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b7edd44a250a98e70d01_Lion6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-54",
+                    "name": "lion-7",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b7fbfe6ba6e5ce5d7862_Lion7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-55",
+                    "name": "lion-8",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b8162b0e552d54601a0d_Lion8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-56",
+                    "name": "lion-9",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b82879062a6f90eee78f_Lion9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-57",
+                    "name": "panda-1",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b86b93e02ec276753550_Panda1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-58",
+                    "name": "panda-10",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b87f254412602f6f8511_Panda10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-59",
+                    "name": "panda-11",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b891053d2c8fca96edbd_Panda11.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-60",
+                    "name": "panda-12",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b89ff357a5ee4642ecd9_Panda12.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-61",
+                    "name": "panda-13",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b8ae0937170f90e1ffd5_Panda13.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-62",
+                    "name": "panda-14",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b8be4ea8c54e8ca3f93a_Panda14.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-63",
+                    "name": "panda-2",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b8e26cd174d87a40db0d_Panda2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-64",
+                    "name": "panda-3",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b8f55f4cbee7a08885a9_Panda3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-65",
+                    "name": "panda-4",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b90bfde3f7eb46c252cb_Panda4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-66",
+                    "name": "panda-5",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b91c5290b22d56940a9c_Panda5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-67",
+                    "name": "panda-6",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b9331b13f319b852c06b_Panda6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-68",
+                    "name": "panda-7",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b9474ed4be2c59a38d96_Panda7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-69",
+                    "name": "panda-8",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b96d18f3338fc2bf404b_Panda8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-70",
+                    "name": "panda-9",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b87f254412602f6f8511_Panda10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-71",
+                    "name": "turtle-1",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b99664739597eb3cd9ba_Turtle1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-72",
+                    "name": "turtle-2",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b9af2a953cccdac17108_Turtle2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-73",
+                    "name": "turtle-3",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b9befe6ba6e5ce5f6796_Turtle3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-74",
+                    "name": "turtle-4",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b9d655981edb23c333ff_Turtle4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-75",
+                    "name": "turtle-5",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537b9e9d3c6fb4fffaa59f2_Turtle5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-76",
+                    "name": "turtle-6",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537ba0244ea550d5c7059ba_Turtle6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-77",
+                    "name": "turtle-8",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537ba4918f3338fc2c02ad7_Turtle8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-78",
+                    "name": "turtle-9",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537ba6044ea550d5c70cc88_Turtle9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-79",
+                    "name": "wolf-1",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537ba971e85283d2b841d19_Wolf1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-80",
+                    "name": "wolf-10",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bacf6cb11eb52ab3d91c_Wolf10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-81",
+                    "name": "wolf-11",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537badf3b8ffa0021881859_Wolf11.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-82",
+                    "name": "wolf-12",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537baeeaa86da0e31c98d2e_Wolf12.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-83",
+                    "name": "wolf-13",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bb2ffe5c5298947c687d_Wolf13.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-84",
+                    "name": "wolf-14",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bb4193e02ec27678480b_Wolf14.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-85",
+                    "name": "wolf-15",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bbfaecf77a2c21b09427_Wolf15.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-86",
+                    "name": "wolf-16",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bc0b1de8dd975fe7af18_Wolf16.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-87",
+                    "name": "wolf-17",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bc1e2a953cccdac42a45_Wolf17.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-88",
+                    "name": "wolf-18",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bc2ec190ac2d0fc81149_Wolf18.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-89",
+                    "name": "wolf-19",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bc42f357a5ee46470cc7_Wolf19.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-90",
+                    "name": "wolf-2",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bc65edeaef4858497815_Wolf2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-91",
+                    "name": "wolf-3",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bc75a209acb60af6a85e_Wolf3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-92",
+                    "name": "wolf-4",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bc868af65096bb1e2d42_Wolf4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-93",
+                    "name": "wolf-5",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bc98e2d0a18cea34fafc_Wolf5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-94",
+                    "name": "wolf-6",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bcc1a7994f9e89ca81d3_Wolf6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-95",
+                    "name": "wolf-7",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bd0b857461c1a4957da4_Wolf7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-96",
+                    "name": "wolf-8",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bd1d4ac7049c45e9fbca_Wolf8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "animals-97",
+                    "name": "wolf-9",
+                    "description": "Step into the natural world with our captivating Animal Stickers. Inspired by the diverse beauty of wildlife, these stickers are meticulously crafted to encapsulate the essence of the animal kingdom. A must-have for animal lovers of all ages, they bring the wonder of creatures big and small to your everyday life. Elevate your surroundings with the majesty of animals today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6537bd413bb10f87486672a0_Wolf9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                }
+            ]
+        },
+        {
+            "id": "Flowers",
+            "name": "Flowers",
+            "stickers": [
+                {
+                    "id": "flowers-1",
+                    "name": "flower1",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f5eec3c422104d0048a0_Flower1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-2",
+                    "name": "flower10",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f6a459a066f094b9a364_Flower10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-3",
+                    "name": "flower11",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f627534efa075abe3909_Flower11.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-4",
+                    "name": "flower12",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f65dcec0d5a74275fe81_Flower12.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-5",
+                    "name": "flower13",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f66cc401b6b47ee60c23_Flower13.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-6",
+                    "name": "flower14",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f694356063cc6ea6659c_Flower14.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-7",
+                    "name": "flower2",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f5ffeafcfec1de959f11_Flower2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-8",
+                    "name": "flower3",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f60d7542148e9551a147_Flower3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-9",
+                    "name": "flower4",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f645dc02aa78ac9b51ff_Flower4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-10",
+                    "name": "flower5",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f63ba72efea2875b7da9_Flower5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-11",
+                    "name": "flower6",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f61cc401b6b47ee5a901_Flower6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-12",
+                    "name": "flower7",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f60d7542148e9551a147_Flower3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-13",
+                    "name": "flower8",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f6516400c00eb7e712d8_Flower8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "flowers-14",
+                    "name": "flower9",
+                    "description": "Step into a world of natural wonder with our captivating Flower Stickers. Inspired by the vibrant beauty of blossoms and blooms, these stickers are meticulously crafted to encapsulate the essence of nature's artistry. A must-have for flower enthusiasts of all ages, they bring the charm of the garden to your everyday life. Elevate your surroundings with the grace and elegance of flowers today.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538f678cec0d5a742761de0_Flower9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                }
+            ]
+        },
+        {
+            "id": "Halloween",
+            "name": "Halloween",
+            "stickers": [
+                {
+                    "id": "halloween-1",
+                    "name": "halloween-1",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c4426e212bf1bb1a0f6c5_HolloweenZombie1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-2",
+                    "name": "halloween-2",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c4445722f7ce55d5e8ac0_Halloween%20Zombie2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-3",
+                    "name": "halloween-3",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c4464bf55b01d96bf750b_HalloweenZombie3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-4",
+                    "name": "halloween-4",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c448ae51ee095a859a37d_HalloweenZombie4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-5",
+                    "name": "halloween-5",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c44a71b4433a6c8b3b614_HalloweenWitch1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-6",
+                    "name": "halloween-6",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c44c61b4433a6c8b3d4e0_HalloweenWitch2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-7",
+                    "name": "halloween-7",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c44e059c4745ca3a0084f_HalloweenWitch3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-8",
+                    "name": "halloween-8",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c4506195417bbdcf6d71a_HalloweenWitch4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-9",
+                    "name": "halloween-9",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652c452b19f4ee801ab3bd58_HalloweenWitch5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-10",
+                    "name": "halloween-ghost1",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534564ee0db5de98840ab07_HalloweenGhost1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-11",
+                    "name": "halloween-ghost10",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534565ac3ba19b43f15971d_HalloweenGhost10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-12",
+                    "name": "halloween-ghost2",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456667ecc65ca6b0889df_HalloweenGhost2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-13",
+                    "name": "halloween-ghost3",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534567397cd72e210b5db34_HalloweenGhost3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-14",
+                    "name": "halloween-ghost4",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456838dd7217452fa40f8_HalloweenGhost4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-15",
+                    "name": "halloween-ghost5",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/65345694e0db5de98840d8d6_HalloweenGhost5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-16",
+                    "name": "halloween-ghost6",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456a12845a4410a20969a_HalloweenGhost6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-17",
+                    "name": "halloween-ghost7",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456b4d49a0ebb748c347b_HalloweenGhost7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-18",
+                    "name": "halloween-ghost8",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456c08dd7217452fa76fe_HalloweenGhost8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-19",
+                    "name": "halloween-ghost9",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456cc3ca73a3760609a44_HalloweenGhost9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-20",
+                    "name": "halloween-pumpkin1",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456dc8dd7217452fa857a_HalloweenPumpkin1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-21",
+                    "name": "halloween-pumpkin10",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456ec5190e82a7ece5d55_HalloweenPumpkin10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-22",
+                    "name": "halloween-pumpkin11",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653456fa515cf733600cdbcf_HalloweenPumpkin11.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-23",
+                    "name": "halloween-pumpkin2",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/65345705c693127e8fc5f36e_HalloweenPumpkin2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-24",
+                    "name": "halloween-pumpkin3",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534571097cd72e210b68686_HalloweenPumpkin3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-25",
+                    "name": "halloween-pumpkin4",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534571c3268205b9fd91379_HalloweenPumpkin4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-26",
+                    "name": "halloween-pumpkin5",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653457275661f381b6d5d883_HalloweenPumpkin5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-27",
+                    "name": "halloween-pumpkin6",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/65345732e0db5de98841502f_HalloweenPumpkin6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-28",
+                    "name": "halloween-pumpkin7",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534573d17ca225f106ab2da_HalloweenPumpkin7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-29",
+                    "name": "halloween-pumpkin8",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653457487a7f1db2e9744ed7_HalloweenPumpkin8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-30",
+                    "name": "halloween-pumpkin9",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653457a797cd72e210b709cf_HalloweenPumpkin9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-31",
+                    "name": "halloween-witch10",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653457ba8dd7217452fb4847_HalloweenWitch10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-32",
+                    "name": "halloween-witch11",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653457cac693127e8fc6b059_HalloweenWitch11.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-33",
+                    "name": "halloween-witch12",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653457d75661f381b6d670df_HalloweenWitch12.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-34",
+                    "name": "halloween-witch13",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653457e5cf6e222fd9c25f77_HalloweenWitch13.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-35",
+                    "name": "halloween-witch14",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653457f46b9ba65117dc8df7_HalloweenWitch14.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-36",
+                    "name": "halloween-witch15",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653458012845a4410a21be63_HalloweenWitch15.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-37",
+                    "name": "halloween-witch16",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534580e8dd7217452fb88ed_HalloweenWitch16.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-38",
+                    "name": "halloween-witch17",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534581bcf6e222fd9c28eaa_HalloweenWitch17.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-39",
+                    "name": "halloween-witch18",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534582e6b9ba65117dcc9b4_HalloweenWitch18.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-40",
+                    "name": "halloween-witch19",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534584017ca225f106b66b1_HalloweenWitch19.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-41",
+                    "name": "halloween-witch20",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653458547a7f1db2e9753a07_HalloweenWitch20.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-42",
+                    "name": "halloween-witch6",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653458638dd7217452fbcde5_HalloweenWitch6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-43",
+                    "name": "halloween-witch7",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/65345871c3ba19b43f17349a_HalloweenWitch7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-44",
+                    "name": "halloween-witch8",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6534587e17ca225f106b9e15_HalloweenWitch8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-45",
+                    "name": "halloween-witch9",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653458898dd7217452fbeba1_HalloweenWitch9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-46",
+                    "name": "halloween-zombie5",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653458a1cf6e222fd9c2eb42_HalloweenZombie5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-47",
+                    "name": "halloween-zombie6",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653458addab6affbb16a8d02_HalloweenZombie6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-48",
+                    "name": "halloween-zombie7",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653458ba2845a4410a224db7_HalloweenZombie7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "halloween-49",
+                    "name": "halloween-zombie8",
+                    "description": "Dive into the eerie and enchanting world of Halloween with our captivating Halloween Stickers. Inspired by the thrilling spirit of the season, these stickers are meticulously crafted to encapsulate the essence of spooky fun. A must-have for Halloween aficionados of all ages, they'll add a touch of the macabre to your celebrations. Elevate your Halloween decor and style today, and get ready to spook and delight your way through this bewitching season!",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/653458c897cd72e210b80380_HalloweenZombie8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                }
+            ]
+        },
+        {
+            "id": "Psycedelic",
+            "name": "Psycedelic",
+            "stickers": [
+                {
+                    "id": "psycedelic-1",
+                    "name": "psychedelic-mushroom-11",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538daa9e7fd9be5d1a00ab0_Trippy11.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-2",
+                    "name": "trippy1",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538da8af8f953f010d90d08_Trippy1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-3",
+                    "name": "trippy10",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538dabaa233ab4fbe2d98d5_Trippy10.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-4",
+                    "name": "trippy2",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538daca56ac71e235d71a94_Trippy2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-5",
+                    "name": "trippy3",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538dad9f5cc3db775d33ede_Trippy3.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-6",
+                    "name": "trippy4",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538daeaaf9ec00f6c462a2c_Trippy4.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-7",
+                    "name": "trippy5",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538daf743fe83dc99d0d196_Trippy5.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-8",
+                    "name": "trippy6",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538db055c0a5ac8f4815e81_Trippy6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-9",
+                    "name": "trippy7",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538db1852c9d8232354d956_Trippy7.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-10",
+                    "name": "trippy8",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538db2551d1f29944159cc7_Trippy8.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "psycedelic-11",
+                    "name": "trippy9",
+                    "description": "Unleash your inner wanderer with our Psychedelic Mushroom Sticker. Dive into a world of vibrant colors, mesmerizing patterns, and mind-bending designs that pay homage to the surreal beauty of nature. This sticker is a portal to a whimsical realm where imagination knows no bounds. Stick it on your laptop, water bottle, or anywhere you desire to add a touch of psychedelic wonder to your everyday life. Let the magic of these trippy mushrooms inspire your journey of self-discovery and creativity.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6538db3486c6afdd9ae68fe4_Trippy9.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                }
+            ]
+        },
+        {
+            "id": "Wizard Boy",
+            "name": "Wizard Boy",
+            "stickers": [
+                {
+                    "id": "wizard boy-1",
+                    "name": "harry-potter-sticker-2",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6528fc006b59f479344e9bd4_Youngwizard2b.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-2",
+                    "name": "harry-potter-sticker-2",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6528fb2038c315ff9471e213_Youngwizard2.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-3",
+                    "name": "harry-potter-sticker-3",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/651c18088b771b7743fb0da5_Young%20Wizard%20%233.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-4",
+                    "name": "harry-potter-sticker-4",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/651c19b35ef679a6f88364c8_Young%20Wizard%20%234.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-5",
+                    "name": "harry-potter1",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/652322aee57f35eef0fc850b_YoungWizard1.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-6",
+                    "name": "young-wizard-10",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/651c2e622699bcc1af73c379_Young%20Wizard%2010.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-7",
+                    "name": "young-wizard-5",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/651c1c0437c7888693e06fbc_Young%20Wizard%20%235%232.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-8",
+                    "name": "young-wizard-5",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6528fcf51c309ba460a1e1b4_Youngwizard5b.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-9",
+                    "name": "young-wizard-6",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/6528fdf3ede77d73d72500d5_Youngwizard6.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-10",
+                    "name": "young-wizard-7",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/651c1d66dae02ae213832e34_Young%20Wizard%20%23.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                },
+                {
+                    "id": "wizard boy-11",
+                    "name": "young-wizard-8",
+                    "description": "Step into the enchanting world of magic with our exclusive Wizarding World Adventure Sticker, inspired by the beloved series. This meticulously crafted sticker encapsulates the essence of the wizarding realm, making it a must-have for fans of all ages.",
+                    "type": "Physical",
+                    "image": "https://uploads-ssl.webflow.com/650b09ce5ee8181aec69f309/651c145a36364e7718f8cd8a_Young%20Wizard%20%238.png",
+                    "FEATURED?": false,
+                    "INSTOCK?": true
+                }
+            ]
+        }
+    ]
+}

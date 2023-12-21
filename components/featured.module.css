@@ -1,0 +1,11 @@
+.textBorder {
+    color: black;
+    text-shadow: -1px -1px 0 white, 2px -1px 0 white, -1px 1px 0 white, 2px 1px 0 white;
+}
+
+.cardsContainer {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto ;
+    gap: 1rem;
+}
