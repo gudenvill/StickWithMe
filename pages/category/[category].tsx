@@ -17,6 +17,15 @@ interface CategoryPageProps {
 const CategoryPage: React.FC<CategoryPageProps> = ({ category }) => {
 
 
+  const backgroundStyle = {
+    backgroundImage: 'url(/images/wallpaper.jpg)', // Direct reference to the image in the public folder
+    backgroundSize: 'auto',
+    backgroundPosition: 'center',
+    minHeight: '100vh', // This ensures that the background covers at least the full height of the viewport
+    width: '100%' // Ensures the background covers the full width
+  };
+
+
 
 
   if (!category) {
@@ -24,7 +33,7 @@ const CategoryPage: React.FC<CategoryPageProps> = ({ category }) => {
   }
 
   return (
-    <div>
+    <div style={backgroundStyle}>
       <Head>
         <title>{category.name}</title>
       </Head>

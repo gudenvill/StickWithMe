@@ -40,7 +40,7 @@ const CategoryProducts = ({ category }: { category: Category }) => {
                 </div>
             )}
 
-            <div className='w-full grid grid-cols-3 gap-2'>
+            <div className='w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2'>
                 {category.subcategories?.map((subcategory: Subcategory) => 
                     visibleSubcategories[subcategory.subcategory_id] && subcategory.stickers?.map(sticker => 
                         <Card2 key={sticker.sticker_id} sticker={sticker} />

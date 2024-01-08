@@ -33,5 +33,6 @@ export interface CartItem {
   sticker: Sticker;
   quantity: number;
   selectedSize: StickerSize;
+  price: number;
 
 }

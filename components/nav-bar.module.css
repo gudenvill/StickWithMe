@@ -2,3 +2,18 @@
     font-weight: 400; /* 'light' is usually 300 weight */
     font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.cartItemCount {
+    position: absolute;
+    top: -10px; /* Adjust as needed */
+    right: -10px; /* Adjust as needed */
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    width: 20px; /* Adjust size as needed */
+    height: 20px; /* Adjust size as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem; /* Adjust font size as needed */
+}

@@ -4,6 +4,9 @@ import Image from 'next/image';
 import Navbar from '@/components/nav-bar';
 import Hero from '@/components/hero';
 import Fp from '@/components/featured';
+import Footer from '@/components/footer';
+
+
 export default function Home() {
 
   const backgroundStyle = {
@@ -20,6 +23,7 @@ export default function Home() {
       <Navbar/>
       <Hero />
       <Fp />
+      <Footer />
     </div>
   );
 }

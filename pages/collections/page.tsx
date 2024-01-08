@@ -8,6 +8,18 @@ import Link from 'next/link';
 
 
 export default function CollectionsPage() {
+
+    const backgroundStyle = {
+        backgroundImage: 'url(/images/wallpaper.jpg)', // Direct reference to the image in the public folder
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        minHeight: '100vh', // This ensures that the background covers at least the full height of the viewport
+        width: '100%' // Ensures the background covers the full width
+      };
+
+
+
+
     const [categories, setCategories] = useState<Category[]>([]);
 
     useEffect(() => {
@@ -22,11 +34,11 @@ export default function CollectionsPage() {
     }, []);
 
     return (
-        <div>
+        <div style={backgroundStyle}>
             <Navbar />
             <div className='flex flex-col items-center border-black'>
                 {categories.map((category) => (
-                    <div key={category.category_id} className='relative w-full border-black' style={{ maxWidth: '1300px', minWidth: '370px', margin: 'auto' }}>
+                    <div key={category.category_id} className='relative w-full border-black' style={{ maxWidth: '1300px', minWidth: '250px', margin: 'auto' }}>
                         {/* Background Image */}
                         <div className='relative mb-4' style={{ width: '100%', height: '0', paddingBottom: '19.25%' /* 732/3800 * 100 */ }}>
                             {category.bg_url && (
@@ -39,8 +51,8 @@ export default function CollectionsPage() {
                                 />
                             )}
                             <Link href={`/category/${category.category_id}`}>
-                                <div className='absolute bottom-5 left-5 bg-white py-2 px-4 text-black rounded'>
-                                    View {category.name}
+                                <div className='absolute bottom-5 left-5 bg-white py-1 px-1 md:py-2 md:px-4 text-black rounded text-xs md:text-lg'>
+                                    See more
                                 </div>
                             </Link>
                             {/* Foreground Image */}
