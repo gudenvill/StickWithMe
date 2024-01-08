@@ -11,7 +11,7 @@ const Card: React.FC<{ sticker: Sticker }> = ({ sticker }) => {
     const { addToCart } = useCart();
     const defaultSize: StickerSize = 'M';
     const handleAddToCart = () => {
-        addToCart(sticker, defaultSize, price);
+        addToCart(sticker, defaultSize, sticker.price);
     };
     return (
         <div className="w-full flex-shrink-0 rounded-lg border-none hover:border-2 border-yellow-500 xs:p-1 xs:m-1 bg-gray-300 bg-opacity-50 shadow-2xl">
