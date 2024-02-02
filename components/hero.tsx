@@ -14,7 +14,7 @@ const Hero = () => {
           {/* Flex container centered both horizontally and vertically */}
           <div className={styles.myCustomFontClass}>
             <p className="text-black text-4xl md:text-6xl mb-4 font-extrabold shadow-lg">
-              Save up to 30% during Christmas
+              Save up to 30% during Whenever
             </p> {/* Increased text size and margin for spacing */}
           </div>
           <button className="text-white bg-green-500 hover:bg-red-500 font-bold py-2 px-4 border-4 border-green-700 rounded shadow">
